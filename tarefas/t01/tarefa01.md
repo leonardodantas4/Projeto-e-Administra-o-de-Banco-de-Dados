@@ -1,0 +1,2 @@
+* Link para os scripts de criação: [CLIQUE AQUI](https://github.com/leonardodantas4/Projeto-e-Administracao-de-Banco-de-Dados/blob/6e101a43ce33a727919de7b5e8e7ec35ceb72bd6/tarefas/t01/tarefa01-create.sql)
+* Link para os scripts de povoamento: [CLIQUE AQUI](https://github.com/leonardodantas4/Projeto-e-Administracao-de-Banco-de-Dados/blob/6e101a43ce33a727919de7b5e8e7ec35ceb72bd6/tarefas/t01/tarefa01-inserts.sql)
