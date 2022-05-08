@@ -1,1 +1,1 @@
-select nome from funcionario where dt_nasc > (SELECT MIN(dt_nasc) FROM funcionario)
+SELECT nome FROM funcionario WHERE dt_nasc > (SELECT MIN(dt_nasc) FROM funcionario)
