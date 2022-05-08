@@ -1,9 +1,3 @@
-drop table if exists funcionario cascade;
-drop table if exists departamento cascade;
-drop table if exists projeto cascade;
-drop table if exists atividade cascade;
-drop table if exists atividade_projeto cascade;
-
 CREATE TABLE funcionario (
 	codigo serial,
 	nome varchar(50),
