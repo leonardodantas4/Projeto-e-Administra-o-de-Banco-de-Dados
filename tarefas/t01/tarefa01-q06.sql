@@ -1,0 +1,1 @@
+SELECT funcionario.nome, funcionario.salario, departamento.descricao FROM departamento RIGHT OUTER JOIN funcionario ON departamento.codigo = funcionario.cod_depto;
